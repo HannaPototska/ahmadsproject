@@ -109,5 +109,7 @@ body {
         width: 20%;
     }
 
-    
+    .page2 p {
+        padding: 0 300px;
+    }
 }

@@ -94,6 +94,13 @@ body {
     height: 100%;
     width: 70%;
 }
+footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 5px;
+    flex-direction: column;
+}
 
 
 @media only screen and (min-width: 992px) {
@@ -111,5 +118,12 @@ body {
 
     .page2 p {
         padding: 0 300px;
+    }
+    footer {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        padding: 5px;
+        flex-direction: column;
     }
 }
